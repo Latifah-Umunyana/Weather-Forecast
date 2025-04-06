@@ -1,4 +1,4 @@
-## Panga Meteo
+# Panga Meteo
 A simple weather forecasting web application built with React, JavaScript, and CSS. It uses the OpenWeatherMap API to fetch and display real-time weather data.
 
 ## Setup
@@ -12,6 +12,9 @@ A simple weather forecasting web application built with React, JavaScript, and C
 3. Handles loading and error states.
 
 ## Technologies Used
-Frontend: React
-API: OpenWeatherMap API
-Languages: JavaScript, HTML, CSS
+- Frontend: **React**
+- API: **OpenWeatherMap API**
+- Languages: **JavaScript, HTML, CSS**
+
+## Hosted Link
+[Panga Meteo](https://weather-forecast-nu-rose.vercel.app/)
