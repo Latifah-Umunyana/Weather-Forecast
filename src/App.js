@@ -1,16 +1,15 @@
 
+import Weather from "./Components/Weather";
+
 const App = () => {
 
-return (
+    return (
 
-<div>
-
-
-
-</div>
-
-)
-
+        <div>
+            <Weather />
+        </div>
+        
+    )
 }
 
 export default App;
